@@ -50,7 +50,7 @@ input {
   width: 100%;
 }
 
-.ul {
+ul {
   display: flex;
   flex-direction: column;
   gap: 0.5em;
